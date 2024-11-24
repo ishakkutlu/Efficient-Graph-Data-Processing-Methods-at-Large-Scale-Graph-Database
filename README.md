@@ -1,5 +1,5 @@
 # Efficient Graph Data Processing Methods at Large-Scale Graph Database
-Explored advanced graph database optimization techniques to address big data processing challenges. Focused on scalability and performance improvement through the application of graph algorithms and query optimization. The project leveraged Gremlin query language to evaluate native graph storage technologies like index-free adjacency, demonstrating significant potential for improving query efficiency and data workflows in large-scale environments. The project provided actionable insights for real-world applications in domains like social networks, logistics, and recommendation systems.
+Explored advanced graph database optimization techniques to address big data processing challenges. Focused on scalability and performance improvement through the application of graph algorithms and query optimization. The project leveraged Gremlin query language to evaluate native graph storage technologies like index-free adjacency, demonstrating significant potential for improving query efficiency and data workflows in large-scale environments. The project provided actionable insights for real-world applications in domains like social networks, logistics, and recommendation systems. 
 
 ## Key Highlights:
 
